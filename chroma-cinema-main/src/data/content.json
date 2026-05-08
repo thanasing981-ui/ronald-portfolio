@@ -1,0 +1,219 @@
+{
+  "personal": {
+    "name": "Ronald Regan",
+    "title": "Video Editor",
+    "tagline": "5 Years of Experience Across Social Media Platforms",
+    "subtitle": "I create high-quality short-form content for all social media platforms — UGC, product videos, podcasts, real estate, and brand promos.",
+    "email": "work.ronaldregan@gmail.com",
+    "yearsExperience": 5,
+    "bio": "I'm Ronald Regan, a video editor with 5 years of experience. Editing isn't just work for me — it's my passion. I bring my own creative ideas to every project and love working with different clients to explore fresh concepts. Whether you need engaging Instagram Reels for your business, UGC content for your products, or professional videos for your brand — I create scroll-stopping short-form content that connects with your audience."
+  },
+
+  "services": [
+    "Script Videos",
+    "Talking Head",
+    "UGC",
+    "Real Estate",
+    "Automobile",
+    "Corporate",
+    "AI Videos"
+  ],
+
+  "skills": [
+    {
+      "name": "DaVinci Resolve",
+      "percentage": 95,
+      "icon": "palette"
+    },
+
+    {
+      "name": "CapCut",
+      "percentage": 92,
+      "icon": "smartphone"
+    },
+
+    {
+      "name": "Higgsfield",
+      "percentage": 90,
+      "icon": "sparkles"
+    },
+
+    {
+      "name": "ElevenLabs",
+      "percentage": 88,
+      "icon": "mic"
+    },
+
+    {
+      "name": "HeyGen",
+      "percentage": 85,
+      "icon": "video"
+    }
+  ],
+
+  "projects": [
+    {
+      "id": 13,
+      "title": "Script Video 1",
+      "category": "Script Videos",
+      "duration": "0:45",
+      "videoUrl": "https://www.youtube.com/embed/_UVeeequJ1o",
+      "thumbnail": "/placeholder.svg"
+    },
+
+    {
+      "id": 14,
+      "title": "Script Video 3",
+      "category": "Script Videos",
+      "duration": "0:38",
+      "videoUrl": "https://www.youtube.com/embed/BmkAOg3asHo",
+      "thumbnail": "/placeholder.svg"
+    },
+
+    {
+      "id": 15,
+      "title": "Script Video 4",
+      "category": "Script Videos",
+      "duration": "0:52",
+      "videoUrl": "https://www.youtube.com/embed/Qo3tRqEu7ic",
+      "thumbnail": "/placeholder.svg"
+    },
+
+    {
+      "id": 1,
+      "title": "Talking Head - Business Coach",
+      "category": "Talking Head",
+      "duration": "0:22",
+      "videoUrl": "https://www.youtube.com/embed/ja_WIEHxcTU",
+      "thumbnail": "/placeholder.svg"
+    },
+
+    {
+      "id": 3,
+      "title": "Numom Brand",
+      "category": "Talking Head",
+      "duration": "1:59",
+      "videoUrl": "https://www.youtube.com/embed/VC2vHqwzaX0",
+      "thumbnail": "/placeholder.svg"
+    },
+
+    {
+      "id": 2,
+      "title": "Talking Head Intro",
+      "category": "Talking Head",
+      "duration": "1:04",
+      "videoUrl": "https://www.youtube.com/embed/qaHAc3fr0a8",
+      "thumbnail": "/placeholder.svg"
+    },
+
+    {
+      "id": 4,
+      "title": "Skinrecovery Product Video",
+      "category": "UGC",
+      "duration": "0:30",
+      "videoUrl": "https://www.youtube.com/embed/oEqfPh0ppvs",
+      "thumbnail": "/placeholder.svg"
+    },
+
+    {
+      "id": 5,
+      "title": "Epoxy Flooring",
+      "category": "UGC",
+      "duration": "0:57",
+      "videoUrl": "https://www.youtube.com/embed/kcP3vON7CMo",
+      "thumbnail": "/placeholder.svg"
+    },
+
+    {
+      "id": 6,
+      "title": "Spirulina Tablet",
+      "category": "UGC",
+      "duration": "0:34",
+      "videoUrl": "https://www.youtube.com/embed/Zv6dDhmIxVA",
+      "thumbnail": "/placeholder.svg"
+    },
+
+    {
+      "id": 7,
+      "title": "Real Estate Walkthrough",
+      "category": "Real Estate",
+      "duration": "0:39",
+      "videoUrl": "https://www.youtube.com/embed/y19P-G0RhLY",
+      "thumbnail": "/placeholder.svg"
+    },
+
+    {
+      "id": 8,
+      "title": "BMW GT DELIVERY",
+      "category": "Automobile",
+      "duration": "0:26",
+      "videoUrl": "https://www.youtube.com/embed/z1yC8s_8-xs",
+      "thumbnail": "/placeholder.svg"
+    },
+
+    {
+      "id": 9,
+      "title": "BMW 830D DELIVERY",
+      "category": "Automobile",
+      "duration": "0:59",
+      "videoUrl": "https://www.youtube.com/embed/Uvc_u45_b2c",
+      "thumbnail": "/placeholder.svg"
+    },
+
+    {
+      "id": 10,
+      "title": "BMW CAR DELIVERY",
+      "category": "Automobile",
+      "duration": "0:57",
+      "videoUrl": "https://www.youtube.com/embed/df10I9MP7aY",
+      "thumbnail": "/placeholder.svg"
+    },
+
+    {
+      "id": 11,
+      "title": "Salem RR Briyani",
+      "category": "Corporate",
+      "duration": "0:58",
+      "videoUrl": "https://www.youtube.com/embed/pxUGVqjQEdw",
+      "thumbnail": "/placeholder.svg"
+    },
+
+    {
+      "id": 12,
+      "title": "Miniso",
+      "category": "Corporate",
+      "duration": "0:35",
+      "videoUrl": "https://www.youtube.com/embed/fJZ-p8LZjXo",
+      "thumbnail": "/placeholder.svg"
+    },
+
+    {
+      "id": 16,
+      "title": "AI Video",
+      "category": "AI Videos",
+      "duration": "0:40",
+      "videoUrl": "https://www.youtube.com/embed/4KY8LHiXaec",
+      "thumbnail": "/placeholder.svg"
+    },
+
+    {
+      "id": 17,
+      "title": "AI Music Videos",
+      "category": "AI Videos",
+      "duration": "0:55",
+      "videoUrl": "https://www.youtube.com/embed/jakhXWqS36o",
+      "thumbnail": "/placeholder.svg"
+    },
+
+    {
+      "id": 18,
+      "title": "AI Brand Promo",
+      "category": "AI Videos",
+      "duration": "0:48",
+      "videoUrl": "https://www.youtube.com/embed/urcmBnTO1Yw",
+      "thumbnail": "/placeholder.svg"
+    }
+  ],
+
+  "articles": []
+}
