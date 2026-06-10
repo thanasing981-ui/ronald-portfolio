@@ -81,10 +81,10 @@
 
     {
       "id": 1,
-      "title": "Talking Head - Business Coach",
+      "title": "Talking Head - Education Coach",
       "category": "Talking Head",
-      "duration": "0:22",
-      "videoUrl": "https://www.youtube.com/embed/ja_WIEHxcTU",
+      "duration": "0:34",
+      "videoUrl": "https://www.youtube.com/embed/n0SUmRek3hg",
       "thumbnail": "/placeholder.svg"
     },
 
@@ -93,16 +93,16 @@
       "title": "Rajcloud_Tech",
       "category": "Talking Head",
       "duration": "0:35",
-      "videoUrl": "https://www.youtube.com/embed/TlW1h1PQPqg",
+      "videoUrl": "https://www.youtube.com/embed/G2Qv8N6xzOA",
       "thumbnail": "/placeholder.svg"
     },
 
     {
       "id": 2,
-      "title": "Jorostores.in",
+      "title": "3D.Evolution",
       "category": "Talking Head",
       "duration": "1:04",
-      "videoUrl": "https://www.youtube.com/embed/F6xpBwq8LHw",
+      "videoUrl": "https://www.youtube.com/embed/GFh40T1EiSk",
       "thumbnail": "/placeholder.svg"
     },
 
